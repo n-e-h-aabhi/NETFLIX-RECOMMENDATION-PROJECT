@@ -14,13 +14,6 @@ users. The ultimate goal is to provide personalized movie
 recommendations to users, improving their overall experience and
 engagement with the Netflix platform.
 
-DATA DESCRIPTION
-The NETFLIX.csv contains 24058263 rows and 2 columns.
-The following table shows the description of each columns:
-FEATURE NAME DESCRIPTION
-Cust_Id Unique Id given to the customers
-Rating Ratings given by the customers
-
 DATA PREPROCESSING STEPS AND INSPIRATION
 The preprocessing of the data include the following steps:
 * Data Cleaning:
